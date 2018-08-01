@@ -8,7 +8,8 @@
 
 <body>
      <?php
-	    echo " Senha bem vindo ao PHP! Vamos quebrar a maldiçao do Hello World";
+	echo " Senha bem vindo ao PHP! Vamos quebrar a maldiçao do Hello World";
+	echo "samuel";
 	   ?>
 </body>
 </html>
