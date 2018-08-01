@@ -10,6 +10,7 @@
      <?php
 echo " Senha bem vindo ao PHP! Vamos quebrar a maldiçao do Hello World";
 echo "lucas";
+	echo "samuel";
 	   ?>
 </body>
 </html>
